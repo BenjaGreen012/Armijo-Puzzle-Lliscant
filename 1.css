@@ -1,0 +1,28 @@
+body {
+    background: url("./img/hero-bg.png");
+    color: black;
+    text-align: center;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.puezzle {
+    max-width: 70%;
+
+}
+
+.puezzle {
+    display: grid;
+    margin-left: 14%;
+}
+
+.pieza {
+    background: #fff;
+    border: 2px solid black;
+    padding: 15%;
+    text-align: center;
+    zoom: 5;
+}
